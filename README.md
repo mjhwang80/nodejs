@@ -1,7 +1,4 @@
-# nodejs
+# node.js Basic Sample
 
-첫번째 커밋 
+node.js 기초 샘플 예제
 
-
-
-nodejs
